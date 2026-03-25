@@ -18,11 +18,19 @@ favicon: img/favicon.ico
 
 # Workshop Info
 
-Welcome to the 2026 Coding-Free Bioinformatics Summit webpage!  
+Welcome to the 2026 Coding-Free Bioinformatics Summit webpage!
+
+Participants of the Code-free Bioinformatics (CFB) Summit will work together to design an accessible entry point to bioinformatics for clinician scientists and health professionals in Canada. The resulting training course outline will be used to build a bioinformatics-skilled healthcare workforce. Empowering health professionals and clinical scientists with functional genomics literacy, knowledge of biases in genomics research and a deep understanding of patient experiences with precision medicine will ultimately facilitate the design and implementation standardized and interoperable data analysis frameworks, inclusive health policies surrounding genomic medicine, and equitable care for all Canadians. This is important because a bioinformatics-skilled healthcare workforce will not only drive implementation of genomics across the Canadian health research ecosystem; it will also build patient trust in genomics research by empowering healthcare professionals to communicate genomic-based diagnostics and therapeutics confidently and effectively.
+
+
 
 ## Pre-work
 
-Coming soon!
+<ul>
+  <li>Review the <a href="https://drive.google.com/file/d/1lzHpycz5KxkQCwtmh4XlG2yMTeION3l1/view?usp=sharing" target="_blank" rel="noopener noreferrer">CIHR Planning and Dissemination Grant Proposal</a></li>
+</ul>
+
+
 
 <!--[You can find your pre-work here.](LINK TO PREWORK)-->
 

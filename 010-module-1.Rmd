@@ -4,7 +4,7 @@
 
 ## Welcome and Goals
 
-Coming Soon.
+Participants will work together to act as architects of knowledge translation. As a whole, this group brings experience planning and facilitating education across Canada, designing innovative training modalities, and interfacing between experts and learners. Our goal is to combine our expertise and inform a case-based curriculum that makes advanced medical data accessible to audiences uninitiated to bioinformatics: this includes health professionals, researchers, and patients. We will ensure that national projects, resources and standards are included and effectively leveraged in the curriculum design. Together, we will bridge the gap between practical clinical application and the complexities of bioinformatics, computational biology and data science
 
 ## Case Presentation and Audience Definition
 
