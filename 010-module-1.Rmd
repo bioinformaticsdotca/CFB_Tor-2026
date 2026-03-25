@@ -1,13 +1,24 @@
 # (PART) Modules {-}
 
-# Module 1
+# Day 1 (online)
 
-## Lecture
+## Welcome and Goals
 
-<!--<iframe width="640" height="360" src="YOUTUBE EMBED LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
+Coming Soon.
 
-<!--<iframe src="GOOGLE SLIDES LINK/preview" width="640" height="480" allow="autoplay"></iframe>  
--->
+## Case Presentation and Audience Definition
 
-## Lab
+Coming Soon.
+
+## Clinical Research Panel
+
+Coming Soon.
+
+## Patient Panel
+
+Coming Soon.
+
+## Learner Ecosystem Refinement
+
+Coming Soon.
+

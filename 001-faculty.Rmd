@@ -12,3 +12,60 @@ LOCATION
 
 BIO GOES HERE-->
 
+
+
+#### Ben Fisher
+
+<img src="./img/faculty/ben-fisher.jpg" width="200" alt="Photo of Ben Fisher">
+
+>Regional Coordinator, CBH Atlantic <br>
+Canadian Bioinformatics Hub, Dalhousie University  <br>
+Halifax, NS, Canada 
+>
+> --- atlantic@bioinformatics.ca 
+
+
+#### Larisa Morales-Soto
+
+<img src="./img/faculty/larisa-adj.png" width="200" alt="Photo of Larisa Morales Soto">
+
+>Platform Manager<br>
+Canadian Bioinformatics Hub<br>
+Toronto, ON, Canada 
+>
+> --- pm@bioinformatics.ca
+
+#### Nia Highes
+
+<img src="./img/faculty/nia-hughes.jpeg" width="200" alt="Photo of Nia Hughes">
+
+>Training Manager<br>
+Canadian Bioinformatics Hub<br>
+Toronto, ON, Canada 
+>
+> --- training@bioinformatics.ca
+
+#### Kyster Nanan
+
+<img src="./img/faculty/kyster.jpg" width="200" alt="Photo of Kyster Nanan">
+
+>Education Lead & Project Manager, Ontario Molecular Pathology Research Network<br>
+Queen's University<br>
+Kingston, ON, Canada 
+>
+> --- kn20@queensu.ca
+
+#### Mohamed Helmy
+
+<img src="./img/faculty/mohamed.jpg" width="200" alt="Photo of Mohamed Helmy">
+
+>Principal Scientist and Adjunct Professor, Vaccine and Infectious Disease Organization<br>
+University of Saskatchewan<br>
+Kingston, ON, Canada 
+>
+> --- mohamed.helmy@usask.ca
+
+
+
+
+
